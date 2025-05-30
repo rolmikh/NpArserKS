@@ -1,0 +1,7 @@
+venv
+request.py
+http_params_request.py
+__pycache__/
+.vscode
+.pytest_cache
+/done_html
